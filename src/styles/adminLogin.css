@@ -1,0 +1,14 @@
+.adminlogin{
+    width: 600px;
+    display: flex;
+    justify-content: space-between;
+    margin: auto;
+    margin-top: 200px;
+    align-items:center ;
+
+}
+
+.adminlogin head{
+    align-items: center;
+    margin-bottom: 30px;
+}

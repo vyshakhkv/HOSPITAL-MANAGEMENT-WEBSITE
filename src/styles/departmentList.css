@@ -1,0 +1,21 @@
+ 
+
+
+.dept_section{
+margin-left: 200px;
+
+
+}
+
+.dept_section img{
+    height: 250px;
+}
+
+.butt{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.butt button{
+    width: 100px;
+}

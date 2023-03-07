@@ -1,0 +1,23 @@
+.HOD_section{
+    margin-left: 200px;
+
+}
+
+
+
+.HOD_section img{
+    height: 250px;
+}
+.butt button{
+    width: 100px;
+}
+
+.butt{
+    display: flex;
+    margin: 10px;
+    justify-content: space-between;
+}
+
+.edit{
+    margin-right: 10px;
+}
